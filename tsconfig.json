@@ -30,6 +30,6 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-  ],
+, ".excluded/share/[id]/page.tsx", ".excluded/share/[id]/opengraph-image.tsx"  ],
   "exclude": ["node_modules"]
 }
